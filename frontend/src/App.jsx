@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import Layout from './pages/Layout'
 import './App.css'
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h3 className='text-5xl justify-center'>Everything is Working</h3>
+      <Layout />
     </>
   )
 }
