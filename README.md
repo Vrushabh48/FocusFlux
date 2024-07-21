@@ -1,10 +1,5 @@
-## FocusFlux 
 
-This is a task management web app like a todo application where user can add their daily tasks and complete it with ease and have a track of their daily task progress.
-
-
-Tasks : 
-1. User can add a todo;
-2. user can edit his todo
-3. user can delete his todo;
-4. user should get all his todo on the home page.
+=======
+# FocusFlux 
+The ToDo App is a simple yet powerful task management tool designed to help you organize your tasks efficiently. Whether you are managing personal tasks, work projects, or simply keeping track of your daily activities, the ToDo App provides an intuitive interface and robust features to ensure you stay on top of your to-do list.
+>>>>>>> 85cad771afbafe4b5a5a789c77403f450fdcedd8
